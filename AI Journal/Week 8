@@ -1,0 +1,19 @@
+AI Usage Journal
+Alexandra Rodriguez
+arodri03@umd.edu
+Section 0303
+Week 8
+
+This week’s exercises focused on inheritance and polymorphism in Python, which helped me understand how to reuse and extend code more efficiently. 
+I learned how a subclass can inherit attributes and methods from a parent class, and how method overriding lets me customize behaviors when needed. 
+Using super() made it easier to call methods from the parent class without rewriting everything. 
+For example, when I created subclasses like RegularMember or PremiumMember, I could override certain functions while still keeping the shared logic from the main Member class.
+
+One of the challenges I faced was understanding when to use inheritance versus just using composition. 
+At first, I was tempted to make connections between classes that didn’t fit an “is-a” relationship, like making Member inherit from Book, which didn’t make sense. 
+After experimenting, I realized inheritance should only be used when one class is a specialized version of another. 
+That distinction made the structure of the code much clearer and easier to maintain.
+
+Overall, these exercises helped me see how object-oriented programming makes systems more organized and flexible.
+ I especially liked seeing how polymorphism allows different classes to share the same method name but behave differently.
+  It made the whole Library Management project feel more realistic and scalable.

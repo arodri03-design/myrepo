@@ -1,0 +1,13 @@
+AI Usage Journal
+Alexandra Rodriguez
+arodri03@umd.edu
+Section 0303
+Week 9
+
+For Week 9, I used ChatGPT to help me understand abstract classes, abstract methods, and Protocols. This week’s material was a little confusing at first, especially the part about virtual subclass registration and how ABCs enforce required methods. I mostly understood the main ideas, but I needed help turning them into actual working code.
+
+I asked ChatGPT to walk me through each exercise step by step. I had it explain what the question wanted and then help me build the code in pieces. I also used it when I wasn’t sure how to format the overrides for the abstract properties, classmethods, and the template methods. I made sure that everything I added still made sense with the rest of my project and followed the same style we have been using in class. ChatGPT didn’t replace the learning for me, but it helped me stay on track and not get stuck on details that would slow me down.
+
+Even though the model gave me correct code, I didn’t just copy everything without thinking. After each part, I checked the logic, rewrote some lines in my own style, and tested the snippets in my environment to make sure I understood why they worked. I also used ChatGPT to clarify the difference between ABCs and Protocols, because that part always felt a little abstract. By the end, I felt like I actually understood the reasoning behind the code instead of just pasting it.
+
+Overall, ChatGPT helped me complete the assignment faster and with less stress. It basically acted like a tutor that explained concepts and showed me possible implementations. I still had to put everything together and make sure it matched the assignment requirements, but using ChatGPT definitely made the whole process smoother.

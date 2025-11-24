@@ -1,0 +1,10 @@
+AI Usage Journal
+Alexandra Rodriguez
+arodri03@umd.edu
+Section 0303
+
+I reorganized my project this week by creating an abstract base class for all my analyses. That helped give everything a consistent structure, especially with the run and summary methods. Turning my old functions into subclasses ended up being way smoother than I expected.
+Polymorphism made more sense once I wrote a function that just loops through a list of analysis objects and calls the same method on all of them. Each class responds differently, but the code that calls them stays the same, which feels way more convenient.
+I also added a MarketStudy class to show composition. It “has” things like the return report and search engine, instead of inheriting from them. That separation made the whole project feel more organized.
+I used ChatGPT to help me figure out how to refactor what I already had, but I wrote the actual design and logic myself. Overall, the project looks cleaner and more connected now.
+
